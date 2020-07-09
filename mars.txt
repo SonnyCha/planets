@@ -2,5 +2,6 @@ This is NO MORE  mars
 Adding 2nd line
 Third line is added.
 Last edit from Sonny Cha
+Latest one...
 Mars is also a candy bar
-I'm adding this line to create a conflict
+CONFLICT IS RESOLVED by ignore those changes
